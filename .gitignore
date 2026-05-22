@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+
+# MongoDB local files
+*.mongodb
+
+# Mac hidden files
+.AppleDouble
+.LSOverride
+
+# Linux temp
+*~
+
+# Package lock optional
+# package-lock.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
