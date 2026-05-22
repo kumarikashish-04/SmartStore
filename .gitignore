@@ -51,8 +51,3 @@ Thumbs.db
 # Package lock optional
 # package-lock.json
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
