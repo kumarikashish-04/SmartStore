@@ -15,6 +15,7 @@ const Product = require(
             req.user._id,
         });
   
+        
       // TOTAL PRODUCTS
       const totalProducts =
         products.length;
