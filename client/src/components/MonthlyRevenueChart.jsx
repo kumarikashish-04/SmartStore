@@ -70,6 +70,7 @@ import {
         },
       ],
     };
+    
   
     return (
       <div className="bg-slate-800 p-5 rounded-lg">
