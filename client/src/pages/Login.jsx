@@ -92,13 +92,14 @@ const Login = () => {
             to="/signup"
             className="text-blue-400 ml-2"
           >
-            
+
             Signup
           </Link>
         </p>
       </motion.form>
     </div>
   );
+  
 };
 
 export default Login;
